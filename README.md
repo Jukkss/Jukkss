@@ -10,7 +10,7 @@
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<div align="center" padding="5px">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=dark" />
 </div>
