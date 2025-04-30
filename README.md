@@ -8,14 +8,15 @@
 </p>
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center" padding="5px">
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center" style="padding: 5px;">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=dark" />
 </div>
 
-<p align="center" padding="5px">
+<p align="center" style="padding: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
@@ -23,4 +24,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 </p>
 
+---
 
+<h2 align="center">📫 Contato</h2>
+
+<p align="center">
+  <a href="mailto:sjuao7729@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-soares-308756325/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>
+</p>
