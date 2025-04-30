@@ -2,7 +2,8 @@
 
 <p align="center">
   🎓 Cursando Sistemas de Informação pela PUC Minas<br>
-  💻 Conhecimento em HTML, CSS, JS, C# e Python<br>
+  💻 Conhecimento em HTML, CSS, JS, C#<br>
+  🚀 Aprendizado novo em Python<br> 
   📍 Belo Horizonte - MG
 </p>
 
