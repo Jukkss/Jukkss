@@ -15,9 +15,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=dark" />
 </div>
 
----
-<h2 align="center">🛠️ Tecnologias</h2> 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
