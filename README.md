@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 </p>
 ---
+
 - 📧 Email: sjuao7729@gmail.com  
 - 💼 LinkedIn: [João Victor Soares](https://www.linkedin.com/in/jo%C3%A3o-victor-soares-308756325/)
 
