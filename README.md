@@ -24,7 +24,7 @@
 
 ---
 <p align="center">
-  <a href="[https://www.instagram.com](https://www.instagram.com/jaov.ss/)" target="_blank">
+  <a href="(https://www.instagram.com/jaov.ss/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:sjuao7729@gmail.com" target="_blank">
