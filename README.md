@@ -8,7 +8,7 @@
 </p>
 
 ---
-<h2 align="center">### 📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
@@ -16,6 +16,8 @@
 </div>
 
 ---
+<h2 align="center">🛠️ Tecnologias</h2> 
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
