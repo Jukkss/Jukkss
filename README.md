@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
