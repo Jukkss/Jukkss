@@ -8,7 +8,7 @@
 </p>
 
 ---
-### 📊 GitHub Stats
+<h2 align="center">### 📊 GitHub Stats</h2>
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
@@ -23,9 +23,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 </p>
----
-
-- 📧 Email: sjuao7729@gmail.com  
-- 💼 LinkedIn: [João Victor Soares](https://www.linkedin.com/in/jo%C3%A3o-victor-soares-308756325/)
 
 
