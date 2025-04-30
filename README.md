@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -17,9 +16,6 @@
 </div>
 
 ---
-
-### 🧰 Tecnologias
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
@@ -27,11 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 </p>
-
 ---
-
-### 📫 Contato
-
 - 📧 Email: sjuao7729@gmail.com  
 - 💼 LinkedIn: [João Victor Soares](https://www.linkedin.com/in/jo%C3%A3o-victor-soares-308756325/)
 
