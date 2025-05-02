@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Sistemas de Informação pela **PUC Minas**
 - 💻 Conhecimento em **HTML**, **CSS**, **JS**, **C#**
-- 🚀 Aprendizado novo em **Python**
+- 🚀 Desenvolvendo novos aprendizados em **Python** , **React**, **MongoDB**
 - 📍 **Belo Horizonte - MG**
 
 ---
