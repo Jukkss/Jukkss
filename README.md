@@ -13,7 +13,6 @@
   <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
   <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=dark" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jukkss&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
