@@ -11,7 +11,7 @@
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasgbr-ferreira&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=dark" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasgbr-ferreira&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
