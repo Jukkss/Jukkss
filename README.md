@@ -15,17 +15,16 @@
 </p>
 
 <p align="center">
-  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 
-  <!-- Ferramentas Microsoft -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" width="40" alt="Power BI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Power_Automate_2020.svg" width="40" alt="Power Automate" />
+  <img src="./assets/icons/powerbi.svg" width="40" alt="Power BI" />
+  <img src="./assets/icons/powerautomate.svg" width="40" alt="Power Automate" />
 </p>
+
 
 
 
