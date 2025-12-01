@@ -1,8 +1,8 @@
 <h1 align="center">Olá! 👋 Eu sou João Victor Soares</h1>
 
 - 🎓 Cursando Sistemas de Informação pela **PUC Minas**
-- 💻 Conhecimento em **HTML**, **CSS**, **JS**, **C#**
-- 🚀 Desenvolvendo novos aprendizados em **Python** , **React**, **MongoDB**
+- 💻 Conhecimento em **HTML**, **CSS**, **JavaScript**, **C#**
+- 🚀 Desenvolvendo aprendizados em **Python**, **React**, **MongoDB**
 - 📍 **Belo Horizonte - MG**
 
 ---
@@ -10,11 +10,20 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=dark"/>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=dark"
+    alt="Top Languages"
+  />
 </p>
 
 ---
+
+<h2 align="center">Tecnologias</h2>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
