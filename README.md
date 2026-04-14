@@ -11,12 +11,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=dark&count_private=true&include_all_commits=true" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+    height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=dark"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=tokyonight"
+    height="170"
   />
 </p>
 
