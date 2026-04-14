@@ -1,13 +1,35 @@
 <h1 align="center">Olá! 👋 Eu sou João Victor Soares</h1>
 
-- 🎓 Cursando Sistemas de Informação pela **PUC Minas**
-- 💻 Conhecimento em **HTML**, **CSS**, **JavaScript**, **C#**
-- 🚀 Desenvolvendo aprendizados em **Python**, **React**, **MongoDB**
-- 📍 **Belo Horizonte - MG**
+<p align="center">
+  💻 Estudante de Sistemas de Informação | 🚀 Focado em desenvolvimento e dados
+</p>
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+## 👨‍💻 Sobre mim
+
+- 🎓 Cursando **Sistemas de Informação** na **PUC Minas**
+- 💼 Experiência prática com **automação, dados e desenvolvimento interno**
+- 🧠 Interesse em **engenharia de dados, back-end e soluções escaláveis**
+- 📍 Belo Horizonte - MG
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="./assets/icons/powerbi.svg" width="40"/>
+  <img src="./assets/icons/powerautomate.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -22,16 +44,10 @@
 
 ---
 
-<h2 align="center">Tecnologias</h2>
+## 📫 Contato
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-
-  <img src="./assets/icons/powerbi.svg" width="40" alt="Power BI" />
-  <img src="./assets/icons/powerautomate.svg" width="40" alt="Power Automate" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
