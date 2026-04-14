@@ -44,6 +44,5 @@
 
 ## 🌐 External Projects
 
-- 🔗 [Inventory Automation System](https://github.com/SEU-USUARIO/SEU-REPO)
-- 🔗 [BI Evaluation Dashboard](https://github.com/SEU-USUARIO/SEU-REPO)
-- 🔗 [C# Data Structures Projects](https://github.com/SEU-USUARIO/SEU-REPO)
+- 🔗 [Inventory Automation System]([https://github.com/SEU-USUARIO/SEU-REPO](https://www.linkedin.com/feed/update/urn:li:activity:7408910341499154432/)
+- 🔗 [BI Evaluation Dashboard]([https://github.com/SEU-USUARIO/SEU-REPO](https://www.linkedin.com/feed/update/urn:li:activity:7383575684050309120/)
