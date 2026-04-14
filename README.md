@@ -42,52 +42,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 External Projects
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jukkss&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jukkss&layout=compact&theme=tokyonight"
-    height="170"
-  />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Inventory Automation System
-- Integration with **Microsoft Graph API**
-- Data processing and deduplication
-- Dynamic reporting pipeline
-
-### 🔹 Evaluation BI Automation
-- Data pipeline using **Power Automate + Power BI**
-- Metrics consolidation and analysis
-- Institutional dashboards
-
-### 🔹 C# Academic Projects
-- Data structures (AVL, queues, sorting)
-- Object-oriented system design
-
----
-
-## 📈 Goals
-
-Seeking opportunities to:
-- Build **scalable and efficient systems**
-- Work with **data pipelines and automation**
-- Deliver **real-world impact through technology**
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- 🔗 [Inventory Automation System](https://github.com/SEU-USUARIO/SEU-REPO)
+- 🔗 [BI Evaluation Dashboard](https://github.com/SEU-USUARIO/SEU-REPO)
+- 🔗 [C# Data Structures Projects](https://github.com/SEU-USUARIO/SEU-REPO)
