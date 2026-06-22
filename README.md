@@ -45,4 +45,4 @@
 ## 🌐 External Projects
 
 - 🔗 [BI Evaluation Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7408910341499154432/)
-- 🔗 [-Inventory Automation System](https://www.linkedin.com/feed/update/urn:li:activity:7383575684050309120/)
+- 🔗 [Inventory Automation System]([https://www.linkedin.com/feed/update/urn:li:activity:7383575684050309120/](https://www.linkedin.com/posts/jukkss_desenvolvimentodesoftware-inventaerrioti-ugcPost-7474657557987467264-Yy6_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIoozgBuRAlvhCthSFSyM1hPo1ehBtDvBA))
