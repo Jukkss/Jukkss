@@ -74,7 +74,7 @@ Technical degree in Electrotechnics, CEFET-MG</p>
 A generic, configuration-driven engine maps 58 screens into 8 batches, with integrity guards, count reconciliation, resumable execution and SHA-256 checksums.<br/>
 Power Automate triggers each batch through GitHub Actions and stores the results in SharePoint. Covered by 170 tests and a CI that runs the full pipeline against a mock server.</p>
 <p><code>Python</code> <code>requests</code> <code>BeautifulSoup</code> <code>pydantic</code> <code>pytest</code> <code>GitHub Actions</code> <code>Power Automate</code> <code>Dataverse</code> <code>SharePoint</code></p>
-<p><a href="https://lnkd.in/p/dSnhU7tZ](https://lnkd.in/p/d3_3qQQs">Project post</a></p>
+<p><a href="https://lnkd.in/p/d3_3qQQs">Project post</a></p>
 
 <br/>
 
