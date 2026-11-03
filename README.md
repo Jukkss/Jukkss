@@ -12,7 +12,7 @@
 <a href="https://lattes.cnpq.br/1881452950501986"><img src="https://img.shields.io/badge/Lattes-1F4E79?style=flat-square" alt="Lattes"/></a>
 <img src="https://img.shields.io/badge/Belo%20Horizonte%2C%20Brazil-555555?style=flat-square" alt="Location"/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-1-dark.svg"/><img src="./assets/divider-1-light.svg" width="100%" alt=""/></picture>
+<br/>
 
 <h2>About</h2>
 
@@ -27,7 +27,7 @@ Technical degree in Electrotechnics, CEFET-MG</p>
 
 <img src="./assets/pipeline.svg" width="88%" alt="Source, Extract, Validate, Store, Expose"/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-2-dark.svg"/><img src="./assets/divider-2-light.svg" width="100%" alt=""/></picture>
+<br/>
 
 <h2>Tech Stack</h2>
 
@@ -64,7 +64,7 @@ Technical degree in Electrotechnics, CEFET-MG</p>
 </p>
 <p><sub>CI/CD · self-hosted runners · composite actions · repository_dispatch</sub></p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-3-dark.svg"/><img src="./assets/divider-3-light.svg" width="100%" alt=""/></picture>
+<br/>
 
 <h2>Featured Projects</h2>
 
@@ -95,7 +95,7 @@ Includes automatic auditing, a management dashboard, global search, PDF reports,
 <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Supabase</code> <code>NextAuth</code> <code>Jest</code> <code>Playwright</code> <code>GitHub Actions</code></p>
 <p><a href="https://lnkd.in/p/diYVpgF7">Project post</a> · <a href="https://github.com/Jukkss/Inventory-IEC">Repository</a></p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-4-dark.svg"/><img src="./assets/divider-4-light.svg" width="100%" alt=""/></picture>
+<br/>
 
 <h2>Currently</h2>
 
