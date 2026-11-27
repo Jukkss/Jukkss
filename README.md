@@ -41,7 +41,7 @@ Technical degree in Electrotechnics, CEFET-MG</p>
 <img src="./assets/icons/powerautomate.svg" width="36" title="Power Automate"/>&nbsp;
 <img src="./assets/icons/powerbi.svg" width="36" title="Power BI"/>
 </p>
-<p><sub>Microsoft Dataverse · SharePoint · Power Apps · AI Builder · Canvas LMS API · REST APIs · pydantic · BeautifulSoup</sub></p>
+<p><sub>Microsoft Dataverse · SharePoint · Power Apps · AI Builder · Canvas LMS API · AIRIA · REST APIs · pydantic · BeautifulSoup</sub></p>
 
 <p><b>Back-end and Front-end</b></p>
 <p>
@@ -67,6 +67,16 @@ Technical degree in Electrotechnics, CEFET-MG</p>
 <br/>
 
 <h2>Featured Projects</h2>
+
+<h3>Official Gazette Monitor</h3>
+<p><i>ETL pipeline · GTI, PUC Minas</i></p>
+<p>Daily ETL pipeline that monitors the Brazilian Official Gazette (DOU) for publications about the university, replacing a local agent that relied on AI for classification and had no execution control.<br/>
+Organized in medallion-inspired stages: validated extraction with pagination and full text (bronze, in transit), normalized and typed records keyed by uuid5 and SHA-256 (silver, in transit) and a fully deterministic scoring engine persisted in Dataverse (gold), with the institutional AI used only to summarize.<br/>
+Power Automate orchestrates day and section partitions with a 15-minute lease and idempotent upserts. A 14-month backfill (798 partitions) found 73 of 73 publications from the previous system, with no coverage gaps.</p>
+<p><code>Python</code> <code>Power Automate</code> <code>Dataverse</code> <code>AIRIA</code> <code>SharePoint</code></p>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7531969975054667776/">Project post</a></p>
+
+<br/>
 
 <h3>Legacy System Data Preservation</h3>
 <p><i>ETL pipeline · GTI, PUC Minas</i></p>
